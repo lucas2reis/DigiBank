@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Rh04N7Wo6lGzieeofnTy4NFg+8dllSBB1YqjitQKI08dXKmO57gKOA5JpvLyLCsth5axB/ed/lFuEVKc+dcnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lpinho\\source\\repos\\DigiBank\\DigiBank\\DigiBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lpinho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
